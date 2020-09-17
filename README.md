@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api/top_langs/?username=tushar2407&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=tushar2407&show_icons=true&theme=radical" />
 
 
 <!--
