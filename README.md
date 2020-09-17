@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tushar2407&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&layout=compact&theme=radical" />
 
 
 <!--
