@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Tushar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tushar2407)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tushar2407&show_icons=true&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=dark" />
 
