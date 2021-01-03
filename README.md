@@ -5,6 +5,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=dark" />
 
 <!--START_SECTION:waka-->
+```text
+Python       1 hr 36 mins    ███████████████████░░░░░░   75.85 % 
+CSV          11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+TypeScript   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+SCSS         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
