@@ -1,9 +1,9 @@
 ### Hi there 👋
-[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushar2407&theme=radical)](https://github.com/tushar2407/github-readme-stats)
+[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushar2407&theme=radical&show_icons=true)](https://github.com/tushar2407/github-readme-stats)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tushar2407&show_icons=true&theme=dark" /> -->
 
-![Tushar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=radical&layout=compact)
+![Tushar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=radical&layout=compact&show_icons=true)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=radical&layout=compact" /> -->
 
