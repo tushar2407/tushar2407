@@ -3,9 +3,9 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tushar2407&show_icons=true&theme=dark" /> -->
 
-[![Tushar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=radical&layout=compact)]
+![Tushar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=radical&layout=compact)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=radical&layout=compact" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=radical&layout=compact" /> -->
 
 <!--START_SECTION:waka-->
 ```text
