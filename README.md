@@ -1,8 +1,11 @@
 ### Hi there 👋
-[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushar2407&theme=tokyonight)](https://github.com/tushar2407/github-readme-stats)
+[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushar2407&theme=radical)](https://github.com/tushar2407/github-readme-stats)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tushar2407&show_icons=true&theme=dark" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=tokyonight" />
+
+[![Tushar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=radical&layout=compact)]
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=radical&layout=compact" />
 
 <!--START_SECTION:waka-->
 ```text
@@ -14,7 +17,7 @@ SCSS         4 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![tushar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tushar2407)](https://github.com/tushar2407/github-readme-stats)
+[![Tushar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tushar2407&theme=radical)](https://github.com/tushar2407/github-readme-stats)
 
 
 <!--
