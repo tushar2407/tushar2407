@@ -4,6 +4,8 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tushar2407&show_icons=true&theme=dark" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=dark" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **tushar2407/tushar2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
