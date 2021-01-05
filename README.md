@@ -12,6 +12,20 @@
 
 [![Tushar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tushar2407&theme=radical)](https://github.com/tushar2407/github-readme-stats)
 
+<div style="display:flex; align-items:center; justify-content: center;">
+<img height="32" width="32" style="margin:50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" />
+<img height="32" width="32" style="margin:5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/django.svg" />
+<img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg" />
+<img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+<img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firebase.svg" />
+<img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
+<img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/celery.svg" />
+<img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg" />
+<img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />
+<img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
+<img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
+</div>
 
 <!--
 **tushar2407/tushar2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
