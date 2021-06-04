@@ -1,5 +1,5 @@
 # Hi there 👋
-### Wroking on designs of DRY and MVC
+<!-- ### Working on designs of DRY and MVC -->
 ![](https://komarev.com/ghpvc/?username=tushar2407&label=PROFILE+VIEWS&color=blue&style=plastic)
 
 [![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushar2407&theme=radical&show_icons=true)](https://github.com/tushar2407/github-readme-stats)
