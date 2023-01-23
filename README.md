@@ -1,6 +1,8 @@
 # Hi there 👋
 My Mantra : Eat🍕 Sleep😴 Code👨‍💻 Repeat🔁
 
+Let's connect over [Linkedin](https://linkedin.com/in/tushar2407)!!
+
 <!-- Working hours towards a common goal -> A better world in this era of "Artificial Intelligence" -->
 <!-- ### Working on designs of DRY and MVC -->
 ![](https://komarev.com/ghpvc/?username=tushar2407&label=PROFILE+VIEWS&color=blue&style=plastic)
