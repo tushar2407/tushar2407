@@ -18,7 +18,7 @@ Do visit my [website](https://tushar2407.github.io/)!
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=radical&layout=compact" /> -->
 
 
-<!--[![Tushar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tushar2407&theme=radical)](https://github.com/tushar2407/github-readme-stats) -->
+[![Tushar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tushar2407&theme=radical)](https://github.com/tushar2407/github-readme-stats)
 <!--
 <div style="display:flex; align-items:center; justify-content: center;">
 <img height="32" width="32" style="margin:50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" />
