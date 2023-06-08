@@ -1,14 +1,22 @@
 # Hi there 👋
 My Mantra : Eat🍕 Sleep😴 Code👨‍💻 Repeat🔁
 
+🌱 I’m currently learning about Web3.0 and blockchain. Apart from that, on a continuous sprint for Large Language Models (LLMs) and what is new in the market.
+
+👯 I’m looking to collaborate on any website development or technical freelance projects. 
+
+📖 I'm currently reading "How to talk to Anyone" by Leil Lowndes. 7/n in 2023!
+
 Let's connect over [Linkedin](https://linkedin.com/in/tushar2407)!!
 
 Do visit my [website](https://tushar2407.github.io/)!
 
 <!-- Working hours towards a common goal -> A better world in this era of "Artificial Intelligence" -->
 <!-- ### Working on designs of DRY and MVC -->
+
 ![](https://komarev.com/ghpvc/?username=tushar2407&label=PROFILE+VIEWS&color=blue&style=plastic)
 
+# Coding Stats:
 [![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushar2407&theme=radical&show_icons=true)](https://github.com/tushar2407/github-readme-stats)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tushar2407&show_icons=true&theme=dark" /> -->
@@ -34,6 +42,7 @@ Do visit my [website](https://tushar2407.github.io/)!
 <img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
 <img height="32" width="32" class="mar" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
 </div>-->
+# Tools:
 <div style="display:flex; align-items:center; justify-content: center;">
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
