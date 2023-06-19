@@ -5,7 +5,7 @@ My Mantra : Eat🍕 Sleep😴 Code👨‍💻 Repeat🔁
 
 👯 I’m looking to collaborate on any website development or technical freelance projects. 
 
-📖 I'm currently reading "How to talk to Anyone" by Leil Lowndes. 7/n in 2023!
+📖 I'm currently reading "Cashflow Quandrant" by Robert Kiyosaki. 8/n in 2023!
 
 Let's connect over [Linkedin](https://linkedin.com/in/tushar2407)!!
 
