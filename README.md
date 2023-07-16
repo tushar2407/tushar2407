@@ -9,6 +9,8 @@ I am Tushar, an engineer with interest in anything and everything related to tec
 
 📖 I'm currently reading "The Power of your Subconcious Mind" by Joseph Murphy. 9/n in 2023!
 
+![status](https://badge.stateful.com/tushar2407/dnd.svg)
+
 Let's connect over [Linkedin](https://linkedin.com/in/tushar2407)!!
 
 Do visit my [website](https://tushar2407.github.io/)!
